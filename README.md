@@ -15,4 +15,4 @@
 
 統合版Minecraft hive専用の最高クライアント
 
-このクライアントはhiveのanti cheatをbypassします
+このクライアントはhiveのanticheatをbypassします
