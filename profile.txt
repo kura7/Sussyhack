@@ -1,0 +1,6 @@
+ = = =SussyH4ck= = =
+devバージョンもpublicも変わりません
+
+1.19(最新版対応)
+
+packet client dev version skid
